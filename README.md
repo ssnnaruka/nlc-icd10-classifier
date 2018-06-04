@@ -40,7 +40,7 @@ When the reader has completed this pattern, they will understand how to:
 
 Here we create the classifier with our ICD-10 dataset.
 
-1. Clone this project: `git clone git@github.com:IBM/nlc-icd10-classifier.git` and `cd` into the new directory.
+1. Clone this project: `git clone git@github.com:ssnnaruka/nlc-icd10-classifier.git` and `cd` into the new directory.
 
 1. We'll be using `ICD-10-GT-AA.csv` dataset in the `data` folder
     > Note that this is a subset of the entire ICD-10 classification set, which allows faster training time
